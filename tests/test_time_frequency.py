@@ -9,8 +9,6 @@ try:
 except KeyError:
     pass
 
-import matplotlib
-matplotlib.use('Agg')
 
 import librosa
 import numpy as np

@@ -12,8 +12,6 @@ try:
 except:
     pass
 
-import matplotlib
-matplotlib.use('Agg')
 
 import warnings
 

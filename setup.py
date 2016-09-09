@@ -40,9 +40,7 @@ setup(
         'resampy >= 0.1.2'
     ],
     extras_require={
-        'docs': ['numpydoc', 'sphinx!=1.3.1', 'sphinx_rtd_theme',
-                 'matplotlib >= 1.5'],
+        'docs': ['numpydoc', 'sphinx!=1.3.1', 'sphinx_rtd_theme'],
         'numba': ['numba >= 0.25'],
-        'display': ['matplotlib >= 1.5'],
     }
 )

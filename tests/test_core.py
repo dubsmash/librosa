@@ -21,8 +21,6 @@ import numpy as np
 import scipy.io
 import six
 from nose.tools import eq_, raises
-import matplotlib
-matplotlib.use('Agg')
 
 
 # -- utilities --#

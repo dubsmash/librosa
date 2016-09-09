@@ -9,8 +9,6 @@ try:
 except:
     pass
 
-import matplotlib
-matplotlib.use('Agg')
 import numpy as np
 import librosa
 from nose.tools import raises

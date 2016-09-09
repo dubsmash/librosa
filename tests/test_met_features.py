@@ -11,8 +11,6 @@ try:
 except:
     pass
 
-import matplotlib
-matplotlib.use('Agg')
 import numpy as np
 import scipy.io
 import scipy.signal

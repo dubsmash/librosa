@@ -28,8 +28,6 @@ try:
 except KeyError:
     pass
 
-import matplotlib
-matplotlib.use('Agg')
 import six
 import glob
 import numpy as np
